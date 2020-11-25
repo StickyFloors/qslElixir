@@ -24,4 +24,4 @@ QSL card repository for Elixir treatment
       9b. Note that user name is supplanted by computer user name
       
  2. FOR NEXT TIME
-  a. Install homebrown to facilitate Elixir
+  a. Install homebrew to facilitate Elixir
