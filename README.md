@@ -23,5 +23,19 @@ QSL card repository for Elixir treatment
       9a. Prompt with log in info for GitHub
       9b. Note that user name is supplanted by computer user name
       
- 2. FOR NEXT TIME
-  a. Install homebrew to facilitate Elixir
+ 2. Homebrew/Elixir Install
+  a. install homebrew if not already on mac
+      https://brew.sh/
+  b. use brew to install elixir
+    https://elixir-lang.org/install.html
+  c. brew update
+  d. brew install elixir
+  e. should install erlang as well
+  f. install phoenix
+  g. mix local.hex
+  h. mix archive.install hex phx_new 1.5.7
+  i. install node.js https://nodejs.org/en/download/
+  j.brew install node
+  
+ 3. For Next Time
+  install postgreSQL https://wiki.postgresql.org/wiki/Detailed_installation_guides
